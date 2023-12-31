@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file
+.env
+
+# Other files/directories to ignore (add as needed)
